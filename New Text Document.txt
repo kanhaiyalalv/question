@@ -1,2 +1,3 @@
 I am from master branch
 I am for the first commit
+I am from the second commit
